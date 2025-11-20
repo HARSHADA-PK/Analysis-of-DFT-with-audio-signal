@@ -121,4 +121,4 @@ Top 10 Dominant Frequencies:
 
 # RESULTS
 
-Thus,the analysis of DFT with audio signal is verified
+Thus,the analysis of DFT with audio signal is verified.
